@@ -38,11 +38,7 @@ In the links below, you can see pictures of the actual design that was used.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<b>Backend<b>
-<ul>
-<li>No backend required</li>
-</ul>
-  
+
 ## Developer
 
   <a href="https://github.com/iamrahul8" > Rahul Kumar </a>
